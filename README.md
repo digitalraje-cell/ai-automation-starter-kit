@@ -56,3 +56,8 @@ Feel free to fork this repository and contribute new automation workflows.
 ## 📄 License
 
 MIT License
+---
+
+## 🧩 System Architecture
+
+![System Flow](images/system-flow.png)
