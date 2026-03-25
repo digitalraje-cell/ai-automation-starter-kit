@@ -1,0 +1,9 @@
+{
+  "workflow": "lead-followup",
+  "steps": [
+    "send-whatsapp",
+    "wait-1-hour",
+    "send-email",
+    "notify-sales"
+  ]
+}
