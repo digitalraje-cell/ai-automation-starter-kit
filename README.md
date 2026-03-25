@@ -61,3 +61,10 @@ MIT License
 ## 🧩 System Architecture
 
 ![System Flow](images/system-flow.png)
+---
+
+## 🧩 System Architecture
+
+This repository includes a reference architecture for implementing automation workflows across CRM, messaging, and funnel systems.
+
+![System Flow](images/system-flow.png)
